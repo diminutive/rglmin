@@ -1,7 +1,10 @@
 
 #' Title
 #'
-#' @return
+#' description
+#'
+#' details
+#' @return nothing
 #' @export
 #'
 #' @importFrom rgl rgl.points
