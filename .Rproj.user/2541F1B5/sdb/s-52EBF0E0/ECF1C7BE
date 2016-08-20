@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\n#' Title\n#'\n#' @return\n#' @export\n#'\n#' @importFrom rgl rgl.points\nhello <- function() {\n  print(\"Hello, world!\")\n}\n",
+    "created" : 1471664526294.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "649048274",
+    "id" : "ECF1C7BE",
+    "lastKnownWriteTime" : 1471664573,
+    "last_content_update" : 1471664573464,
+    "path" : "~/Documents/projects/rglmin/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
