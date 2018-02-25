@@ -15,3 +15,6 @@ description
 \details{
 details
 }
+\examples{
+hello()
+}
